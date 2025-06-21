@@ -1,5 +1,5 @@
-
-  {
+[
+    {
     "first_name": "Lionel",
     "last_name": "Messi",
     "date_of_birth": "1987-06-24",
@@ -477,4 +477,7 @@
     "goals": 25,
     "assists": 45,
     "trophies": 10,
-    "clubcareer_date": "2020-09-01
+    "clubcareer_date": "2020-09-01"
+  
+  }
+  ]
