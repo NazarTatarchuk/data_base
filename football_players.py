@@ -41,7 +41,7 @@ CREATE TABLE IF NOT EXISTS clubcareer (
 );
 """)
 
-with open("C:\Users\Admin\Desktop\nazar_database\data_base-main\football_players_full.json", 'r', encoding='utf-8') as f:
+with open("data_base-main/football_players_full.json", 'r', encoding='utf-8') as f:
     players = json.load(f)
 
 for player in players:
